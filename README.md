@@ -1,4 +1,6 @@
-# PREREQUISITES 
+This work is under review in IEEE Transaction on Intelligent Transportation System. 
+Title: Deep CNN, Body Pose and Body-Object Interaction Features for Drivers' Activity Monitoring
+#### PREREQUISITES ####
 
 Anaconda Python 3.6 or higher
 CUDA Toolkit v9.0
