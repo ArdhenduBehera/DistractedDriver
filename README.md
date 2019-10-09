@@ -4,14 +4,23 @@ Title: Deep CNN, Body Pose and Body-Object Interaction Features for Drivers' Act
 #### PREREQUISITES ####
 
 Anaconda Python 3.6 or higher
+
 CUDA Toolkit v9.0
+
 CuDNN v7.0.5
+
 TensorFlow 1.8 (GPU)
+
 Keras 2.1.3
+
 AlphaPose https://github.com/MVIG-SJTU/AlphaPose 
+
 OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
 Object detection module (faster_rcnn_inception_resnet_v2_atrous_coco_11_06_2017) http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_resnet_v2_atrous_coco_11_06_2017.tar.gz
+
 YOLOv3 https://pjreddie.com/darknet/yolo/
+
 scikit-learn
 
 
